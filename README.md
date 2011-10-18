@@ -1,3 +1,8 @@
 Example using CoffeeScript on Cloud9
+====================================
 
-npm install coffee-script
+Before you can run it CoffeeScript has to be installed:
+
+    npm install coffee-script
+    
+Then run `server.js` from the run menu.
